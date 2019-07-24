@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../tt_tracker/TTTracker/Core/TTTrackerStorageManager.m"
+            timestampString = "515653357.744738"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "-insertV3Track:trackID:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TTTrackerStorageManager insertV3Track:trackID:]"
+                  moduleName = "TrackerExternalExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fyd/work/project/tt_tracker/TTTracker/Core/TTTrackerStorageManager.m"
+                  timestampString = "515662173.681823"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "294">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__49-[TTTrackerStorageManager insertV3Track:trackID:]_block_invoke"
+                  moduleName = "TrackerExternalExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fyd/work/project/tt_tracker/TTTracker/Core/TTTrackerStorageManager.m"
+                  timestampString = "515662173.690689"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "34">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
